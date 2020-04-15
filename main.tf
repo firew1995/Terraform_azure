@@ -3,7 +3,7 @@ provider "azurerm" {
  client_id = "ae836f09-931b-4e6b-af13-ddc426c0ecdc"
  client_secret = "eWBS/agdw4di.RYS?QXg?iuZrmyfF154"
  tenant_id = "037d95db-f9ae-4d6b-b2c3-094fcce3858b"
- location = "east us"
+ region = "east us"
   
 }
 
