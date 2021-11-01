@@ -8,7 +8,7 @@ provider "azurerm" {
  
 resource "azurerm_resource_group" "example" {
   name     = "Terraform_rg"
-  location = "eastus"
+  location = "eastus2"
   tags = {
     environment = "Sandbox"
   }
